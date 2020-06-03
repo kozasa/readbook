@@ -15,4 +15,4 @@ https://kozasa.github.io/readbook/
 - [孫正義 300 年王国への野望](https://kozasa.github.io/readbook/%E5%AD%AB%E6%AD%A3%E7%BE%A9300%E5%B9%B4%E7%8E%8B%E5%9B%BD%E3%81%B8%E3%81%AE%E9%87%8E%E6%9C%9B)
 - [悩みが消える勇気の心理学](https://kozasa.github.io/readbook/%E6%82%A9%E3%81%BF%E3%81%8C%E6%B6%88%E3%81%88%E3%82%8B%E5%8B%87%E6%B0%97%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6)
 - [貞観政要](https://kozasa.github.io/readbook/%E8%B2%9E%E8%A6%B3%E6%94%BF%E8%A6%81)
-- [ユダヤの商法]https://kozasa.github.io/readbook/%E3%83%A6%E3%83%80%E3%83%A4%E3%81%AE%E5%95%86%E6%B3%95
+- [ユダヤの商法](https://kozasa.github.io/readbook/%E3%83%A6%E3%83%80%E3%83%A4%E3%81%AE%E5%95%86%E6%B3%95)
