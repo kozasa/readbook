@@ -16,3 +16,5 @@ https://kozasa.github.io/readbook/
 - [悩みが消える勇気の心理学](https://kozasa.github.io/readbook/%E6%82%A9%E3%81%BF%E3%81%8C%E6%B6%88%E3%81%88%E3%82%8B%E5%8B%87%E6%B0%97%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6)
 - [貞観政要](https://kozasa.github.io/readbook/%E8%B2%9E%E8%A6%B3%E6%94%BF%E8%A6%81)
 - [ユダヤの商法](https://kozasa.github.io/readbook/%E3%83%A6%E3%83%80%E3%83%A4%E3%81%AE%E5%95%86%E6%B3%95)
+- [10分読書](https://kozasa.github.io/readbook/10%E5%88%86%E8%AA%AD%E6%9B%B8.html)
+- [最後のダイエット](https://kozasa.github.io/readbook/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88.html)
