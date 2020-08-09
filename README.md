@@ -19,3 +19,4 @@ https://kozasa.github.io/readbook/
 - [10分読書](https://kozasa.github.io/readbook/10%E5%88%86%E8%AA%AD%E6%9B%B8.html)
 - [最後のダイエット](https://kozasa.github.io/readbook/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88.html)
 - [勝ち続ける意志力](https://kozasa.github.io/readbook/%E5%8B%9D%E3%81%A1%E7%B6%9A%E3%81%91%E3%82%8B%E6%84%8F%E5%BF%97%E5%8A%9B.html)
+- [ズボラPDCA](https://kozasa.github.io/readbook/%E3%82%BA%E3%83%9C%E3%83%A9PDCA.html)
