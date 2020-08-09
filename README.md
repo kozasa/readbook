@@ -20,3 +20,4 @@ https://kozasa.github.io/readbook/
 - [最後のダイエット](https://kozasa.github.io/readbook/%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88.html)
 - [勝ち続ける意志力](https://kozasa.github.io/readbook/%E5%8B%9D%E3%81%A1%E7%B6%9A%E3%81%91%E3%82%8B%E6%84%8F%E5%BF%97%E5%8A%9B.html)
 - [ズボラPDCA](https://kozasa.github.io/readbook/%E3%82%BA%E3%83%9C%E3%83%A9PDCA.html)
+- [マンガでわかるシンプルで正しいお金の増やし方](https://kozasa.github.io/readbook/%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E6%AD%A3%E3%81%97%E3%81%84%E3%81%8A%E9%87%91%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E6%96%B9.html)
